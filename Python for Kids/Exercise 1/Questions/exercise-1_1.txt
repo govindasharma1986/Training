@@ -1,0 +1,7 @@
+A. Write 2 scripts to "Describe Yourself" in 50 lines.
+
+Further Instructions:
+i. In first script, use 50 `print()` statements to print 50 lines.
+ii. In second script, use 1 `print()` statement to print 50 lines.
+
+Tip: You will need to use newline escape character.

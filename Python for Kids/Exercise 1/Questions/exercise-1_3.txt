@@ -1,0 +1,7 @@
+A. Write an expression to add 5 numbers.
+B. Write an expression to subtract 4 numbers.
+C. Write an expression to multiply 3 numbers.
+D. Write an expression to divide 2 numbers.
+
+Further instructions:
+i. Write the solution in both IDLE and script file. When writing in IDLE do not write `print()` statement.

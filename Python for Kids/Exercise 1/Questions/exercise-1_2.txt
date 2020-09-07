@@ -1,0 +1,32 @@
+A. For given scripts, add comments for each statements.
+
+----------
+script1.py
+----------
+number_1 = 100
+number_2 = 200
+answer = number_1 + number_2
+print(answer)
+
+----------
+script2.py
+----------
+def add(number1, number2):
+    return number1 + number2
+
+answer = add(100, 200)
+print(answer)
+
+----------
+script3.py
+----------
+def subtract(number1, number2):
+    return number1 - number2
+
+answer = subtract(200, 100)
+print(answer)
+
+Clue:
+`def` means function. A function is an action / behaviour. 
+Functions you know:
+a. A function to `print()` anything.
