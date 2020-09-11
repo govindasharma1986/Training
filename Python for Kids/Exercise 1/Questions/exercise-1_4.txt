@@ -1,31 +1,21 @@
-----------
-script1.py
-----------
-def is_divisible():
-    quotient = 5
-print(answer)
+A. Memorise rules for writing Identifiers.
 
-----------
-script2.py
-----------
-if 10 / 2 == 5:
-    quotient = 5
-print(quotient)
+B. Memorise list of Keywords.
 
-----------
-script3.py
-----------
-if 10 / 2 == 5:
-    quotient = 5
-def is_divisible():
-    print(quotient)
-
-----------
-script4.py
-----------
-def is_divisible():
-    if 10 / 2 == 5:
-        quotient = 5
-    print(quotient)
-
-A. For which script `quotient` would be visible in `print()` function.
+C. Which of the Identifiers are valid and invalid:
+    a. number
+    b. nUmBeR
+    c. Number_1
+    d. numbeR2
+    e. 1st_number
+    f. 123456
+    g. async
+    h. await
+    i. exec_1
+    j. 1_exec
+    k. number@1
+    l. 1st!
+    m. _counter
+    n. counter_
+    o. this is a long identifier
+    p. this_is_a_long_identifier
