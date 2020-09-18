@@ -1,0 +1,21 @@
+A. Explain Variables in your own words.
+
+B. Store your name in a variable called `name`.
+
+C. Output value stored in variable `name`.
+
+D. Find how many chars are stored in variable `name`.
+
+E. Find out data type of variable `name`.
+
+F. If data type of variable `name` is string then output only first and last letters stored in variable `name`.
+
+G. Store value 33 in a variable called `age`.
+
+H. Output variable age and print data type of `age`.
+
+I. Store value "33" in varialble `age`.
+
+K. Output variable age and print data type of `age`.
+
+Note: Complete above exercises in IDLE.

@@ -1,0 +1,5 @@
+A. How many keywords are there?
+
+B. Memorize names of all keywords?
+
+C. Can we use keywords as indentifiers for variable names?

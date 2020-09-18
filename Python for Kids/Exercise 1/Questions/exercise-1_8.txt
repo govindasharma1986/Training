@@ -1,0 +1,9 @@
+A. Memorise classification of data types in python.
+
+B. Memorise bytes consumed by different data types in python.
+
+C. Explain difference between integers and float in your own words.
+
+D. Which values will always be integers and float. Give examples from real world. For example: age will always be integers and money will be float.
+
+E. Explain Strings in your own words.

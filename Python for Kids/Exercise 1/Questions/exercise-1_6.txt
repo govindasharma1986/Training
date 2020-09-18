@@ -1,0 +1,31 @@
+A. Explain Identifiers in your own words.
+
+B. Memorize rules for writing identifiers.
+
+C. Below are some valid and invalid Identifiers. Identify them.
+    a. box
+    b. housE
+    c. card_board
+    d. ink-pot
+    e. _plate
+    f. tea_
+    g. lapTop
+    h. remote control
+    i. photo_1
+    j. 1_photo
+    k. _01
+    l. 13
+    m. 1.0
+    n. 1_0
+    o. @address
+    p. $income
+    q. [index.0]
+    r. mobile+phone
+    s. rob=bor
+    t. <html>
+    u. \$sal\_
+    v. %_float
+    w. 90.23_deg-C
+    x. True
+    y. exec
+    z. finally
