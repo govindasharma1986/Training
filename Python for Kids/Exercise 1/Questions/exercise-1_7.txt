@@ -1,21 +1,9 @@
-A. Explain Variables in your own words.
+A. Memorise classification of data types in python.
 
-B. Store your name in a variable called `name`.
+B. Memorise bytes consumed by different data types in python.
 
-C. Output value stored in variable `name`.
+C. Explain difference between integers and float in your own words.
 
-D. Find how many chars are stored in variable `name`.
+D. Which values will always be integers and float. Give examples from real world. For example: age will always be integers and money will be float.
 
-E. Find out data type of variable `name`.
-
-F. If data type of variable `name` is string then output only first and last letters stored in variable `name`.
-
-G. Store value 33 in a variable called `age`.
-
-H. Output variable age and print data type of `age`.
-
-I. Store value "33" in varialble `age`.
-
-K. Output variable age and print data type of `age`.
-
-Note: Complete above exercises in IDLE.
+E. Explain Strings in your own words.
