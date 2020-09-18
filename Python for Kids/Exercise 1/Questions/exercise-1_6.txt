@@ -1,6 +1,6 @@
 A. Explain Identifiers in your own words.
 
-B. Memorize rules for writing identifiers.
+B. Memorise rules for writing identifiers.
 
 C. Below are some valid and invalid Identifiers. Identify them.
     a. box
