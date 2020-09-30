@@ -1,0 +1,35 @@
+A. Give 3 different examples for each statements.
+    1. You can convert data from one type to another without losing its value.
+    2. You may lose some information permanently without loosing its value.
+    3. Some values cannot be converted to another type.
+
+B.  Convert output of each statement back to it's original value and type
+    For eg: 
+        int('123')
+            output: 123  
+        type(123)
+            output: <class 'int'>
+        str(123)
+            output: '123'
+        type('123')
+            output: <class 'str'>
+    
+    int('1234567890')
+    int(356.0)
+    int(False)
+    int('0')
+
+    float('234.78')
+    float(234')
+    float(True)
+    float(0)
+    
+    bool(0)
+    bool(1)
+    bool(1.0)
+    bool(0.0)
+    
+    str(True)
+    str(False)
+    str(3.5)
+    str(-66)
